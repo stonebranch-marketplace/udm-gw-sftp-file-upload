@@ -1,5 +1,5 @@
 # udm-gw-sftp-file-upload
-UDM Script to automate SFTP File Upload activities in UDM Gateway.
+UDM Gateway Script to Automate SFTP File Upload
 
 # Disclaimer
 No support and no warranty are provided by Stonebranch GmbH for this document and the related Universal Task. The use of this document and the related Universal Task is on your own risk.
