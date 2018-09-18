@@ -1,2 +1,2 @@
 # udm-gw-sftp-file-upload
-Universal Task to automate File Transfer activities in UDM Gateway.
+Universal Task to automate SFTP File Upload activities in UDM Gateway.
